@@ -1,0 +1,37 @@
+<resources>
+    <string name="bluetooth">BLUETOOTH</string>
+    <string name="status">status:</string>
+    <string name="dispositivos_dispon_veis">Available Devices</string>
+    <string name="dispositivos_pareados">Paired Devices</string>
+    <string name="conectando">Conecting...</string>
+    <string name="parar">STOP</string>
+    <string name="parando">STOPPING..</string>
+    <string name="desativado">OFF</string>
+    <string name="ativado">ON</string>
+    <string name="conectado">Connected!</string>
+    <string name="gamepad">GamePAD</string>
+    <string name="selecionar_modo">Select Mode</string>
+    <string name="terminal_mode">Terminal Mode</string>
+    <string name="desconectado">disconnected</string>
+    <string name="editar_valores">Edit values</string>
+    <string name="editar_caractere">Edit Character</string>
+    <string name="quando_tocar_enviar_n">When touch up send:\n</string>
+    <string name="quando_soltar_enviar_n">When touch down send:\n</string>
+    <string name="editar">Edit</string>
+    <string name="procurar">SCAN</string>
+    <string name="voltar">Back</string>
+    <string name="enviar">Send</string>
+    <string name="sempre_necessario_um_come_o">\"A start is aways necessary\"</string>
+    <string name="ok">OK</string>
+    <string name="copiado_para_area_de_tranferencia">Copied to the clipboard</string>
+    <string name="verificando_requisitos">Checking Requeriment</string>
+    <string name="prontinho">ready</string>
+    <string name="falha">FAIL</string>
+    <string name="dispositivo_nao_suportado">device do not have BLUETOOTH\nClose application?</string>
+    <string name="bem_vindo">WELCOME!!</string>
+    <string name="apagar_mensagem_status">delete message status</string>
+    <string name="config_botoes">button settings</string>
+    <string name="impossivel_enviar_caractere_nulo">impossible to send a null character</string>
+    <string name="ativando">Turning on...</string>
+    <string name="desativando">turning off...</string>
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name" translatable="false">Arduino Bluetooth comunicador</string>
+    <string name="bluetooth">BLUETOOTH</string>
+    <string name="status">status:</string>
+    <string name="dispositivos_dispon_veis">Dispositivos disponíveis</string>
+    <string name="dispositivos_pareados">Dispositivos pareados</string>
+    <string name="conectando">Conectando...</string>
+    <string name="parar">PARAR</string>
+    <string name="parando">PARANDO..</string>
+    <string name="desativado">Desativado</string>
+    <string name="ativado">Ativado</string>
+    <string name="conectado">Conectado!</string>
+    <string name="gamepad">GamePAD</string>
+    <string name="selecionar_modo">Selecionar Modo</string>
+    <string name="terminal_mode">Terminal Mode</string>
+    <string name="desconectado">desconectado</string>
+    <string name="editar_valores">Editar valores</string>
+    <string name="editar_caractere">Editar Caractere</string>
+    <string name="quando_tocar_enviar_n">Quando tocar enviar:\n</string>
+    <string name="quando_soltar_enviar_n">Quando soltar enviar:\n</string>
+    <string name="editar">Editar</string>
+    <string name="procurar">PROCURAR</string>
+    <string name="voltar">Voltar</string>
+    <string name="enviar">Enviar</string>
+    <string name="sempre_necessario_um_come_o">\"sempre é necessario um começo\"</string>
+    <string name="ok">OK</string>
+    <string name="copiado_para_area_de_tranferencia">Copiado para area de transferencia</string>
+    <string name="verificando_requisitos">Verificando requisitos</string>
+    <string name="prontinho">prontinho</string>
+    <string name="falha">FALHA</string>
+    <string name="dispositivo_nao_suportado">dispositivo não possui Bluetooth \nFechar aplicativo?</string>
+    <string name="bem_vindo">Bem vindo!!</string>
+    <string name="apagar_mensagem_status">apagar mensagem status</string>
+    <string name="config_botoes">configurações dos botões</string>
+    <string name="impossivel_enviar_caractere_nulo">impossivel enviar caractere nulo</string>
+    <string name="ativando">Ativando...</string>
+    <string name="desativando">Desativando...</string>
+
+</resources>

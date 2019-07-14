@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\ec85e87ee392c08769db715cafccfba2\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\f001bb72481b3bfa058a4ae3b679b759\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\1e0659b808008d0776e4731b34eebe30\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\f1cd78e1a1411b7c43dc9e23ccf76fb4\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\bf90c85ea1069111f763469be55b3cbd\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\5f4aa58311b2b9a571088e59200ae706\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\a0348358b74c9e68ccc8a92c24ba613d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\a3f18dfeeb01cccfd2941f4c18bcd736\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\7e774cbcf31f87d0cdef6079236a9f21\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\c2080af11751fd1c128e678ccf1dbe87\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\7b5a91301cc593fbb5b5b2d4b8b416e9\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\fab8fa4a5da844e221ddda6c257a75d7\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\5ae08537a07bc10bf64805bfc8365806\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\a0e8844659b64b98f83d8dc71461abef\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\fba704bfef190c449ca22c564474add1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\1e98b6e25ba6b716d6b27d9b9ee6e12b\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\ddf828f86a960a86bdbe08ea22b5b88d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\ab270508f27f405b7b59ffaed2903472\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\4b1ebd890154cd442b651c0c54206c37\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\3410d889cf4f20514486cb8b2d4525f5\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8ab77958214e655c7b2889af5545726c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4cf8b7d63678263f4d28b047c6254eb0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f8479f2e5f6c918edb734aacd0ea6950\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\173e43f6ab9de585d94052181c8cceac\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:8:22-78
+permission#android.permission.BLUETOOTH
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:10:5-63
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:10:17-60
+permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:11:17-66
+permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:12:17-71
+permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:13:17-73
+application
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:15:5-48:19
+	android:supportsRtl
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:18:9-66
+	android:allowBackup
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:21:9-77
+activity#com.projects.ufu.lace.myapplication.MainActivity
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:22:9-27:20
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.projects.ufu.lace.myapplication.TelaSelecionarModo
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:28:9-30:52
+	android:screenOrientation
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:29:13-47
+activity#com.projects.ufu.lace.myapplication.TelaBluetooth
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:31:9-33:52
+	android:screenOrientation
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:32:13-42
+activity#com.projects.ufu.lace.myapplication.TelaTerminalMode
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:34:9-38:58
+	android:screenOrientation
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:36:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:38:13-55
+	android:theme
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:37:13-92
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:35:13-45
+activity#com.projects.ufu.lace.myapplication.TelaGamePad
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:39:9-42:48
+	android:screenOrientation
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:41:13-56
+	android:theme
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:40:13-40
+activity#com.projects.ufu.lace.myapplication.TelaConfigracaoBotao
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:43:9-58
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:43:19-55
+activity#com.projects.ufu.lace.myapplication.TelaEditarBotao
+ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:44:9-47:48
+	android:screenOrientation
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:46:13-49
+	android:theme
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml:45:13-44
+uses-sdk
+INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\ec85e87ee392c08769db715cafccfba2\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\ec85e87ee392c08769db715cafccfba2\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\f001bb72481b3bfa058a4ae3b679b759\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\f001bb72481b3bfa058a4ae3b679b759\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\1e0659b808008d0776e4731b34eebe30\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\1e0659b808008d0776e4731b34eebe30\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\f1cd78e1a1411b7c43dc9e23ccf76fb4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\f1cd78e1a1411b7c43dc9e23ccf76fb4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\bf90c85ea1069111f763469be55b3cbd\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\bf90c85ea1069111f763469be55b3cbd\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\5f4aa58311b2b9a571088e59200ae706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\5f4aa58311b2b9a571088e59200ae706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\a0348358b74c9e68ccc8a92c24ba613d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\a0348358b74c9e68ccc8a92c24ba613d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\a3f18dfeeb01cccfd2941f4c18bcd736\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\a3f18dfeeb01cccfd2941f4c18bcd736\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\7e774cbcf31f87d0cdef6079236a9f21\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\7e774cbcf31f87d0cdef6079236a9f21\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\c2080af11751fd1c128e678ccf1dbe87\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\c2080af11751fd1c128e678ccf1dbe87\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\7b5a91301cc593fbb5b5b2d4b8b416e9\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\7b5a91301cc593fbb5b5b2d4b8b416e9\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\fab8fa4a5da844e221ddda6c257a75d7\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\fab8fa4a5da844e221ddda6c257a75d7\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\5ae08537a07bc10bf64805bfc8365806\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\5ae08537a07bc10bf64805bfc8365806\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\a0e8844659b64b98f83d8dc71461abef\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\a0e8844659b64b98f83d8dc71461abef\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\fba704bfef190c449ca22c564474add1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\fba704bfef190c449ca22c564474add1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\1e98b6e25ba6b716d6b27d9b9ee6e12b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\1e98b6e25ba6b716d6b27d9b9ee6e12b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\ddf828f86a960a86bdbe08ea22b5b88d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\ddf828f86a960a86bdbe08ea22b5b88d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\ab270508f27f405b7b59ffaed2903472\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\ab270508f27f405b7b59ffaed2903472\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\4b1ebd890154cd442b651c0c54206c37\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\4b1ebd890154cd442b651c0c54206c37\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\3410d889cf4f20514486cb8b2d4525f5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\3410d889cf4f20514486cb8b2d4525f5\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8ab77958214e655c7b2889af5545726c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8ab77958214e655c7b2889af5545726c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4cf8b7d63678263f4d28b047c6254eb0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4cf8b7d63678263f4d28b047c6254eb0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f8479f2e5f6c918edb734aacd0ea6950\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f8479f2e5f6c918edb734aacd0ea6950\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\173e43f6ab9de585d94052181c8cceac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MORADIA082663\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\173e43f6ab9de585d94052181c8cceac\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MORADIA082663\Desktop\henrique\apps\android develope\ArduinoBluetoothTools\app\src\main\AndroidManifest.xml
